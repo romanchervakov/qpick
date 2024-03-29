@@ -1,0 +1,112 @@
+.shelf {
+    display: grid;
+    grid-template-rows: 24px auto;
+    row-gap: 24px;
+}
+
+.shelf .category {
+    grid-area: 1 / 1 / 1 / 1;
+    font-size: 20px;
+    line-height: 24px;
+    color: #838383;
+}
+
+.shelf .items {
+    grid-area: 2 / 1 / 2 / 1;
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    grid-auto-rows: 407px;
+    column-gap: 30px;
+    row-gap: 30px; 
+}
+
+.shelf .items .item {
+    position: relative;
+    font-size: 17px;
+    line-height: 21px;
+    width: 350px;
+    height: 407px;
+    display: flex;
+    justify-content: center;
+}
+
+.shelf .items .item .image {
+    position: absolute;
+    top: 15px;
+    width: 220px;
+    height: 240px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.shelf .items .item .info {
+    position: absolute;
+    width: 310px;
+    height: 74px;
+    top: 307px;
+}
+
+
+.shelf .items .item .info .name {
+    position: absolute;
+    top: 0;
+    left: 0;
+    color: #1C1C27;
+}
+
+.shelf .items .item .info .buy {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 21px;
+    color: #1C1C27;
+}
+
+.shelf .items .item .info .buy:hover {
+    color: #FFA542;
+}
+
+.shelf .items .item .info .price-group {
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #FFA542;
+    height: 37px;
+    width: max-content;
+    display: flex;
+    justify-content: center;
+}
+
+
+.shelf .items .item .info .price-group .price {
+    font-size: 17px;
+    line-height: 21px;
+    color: #FFA542;
+}
+
+.shelf .items .item .info .price-group .discount {
+    position: absolute;
+    bottom: 0;
+    font-size: 13px;
+    line-height: 16px;
+    text-decoration-line: line-through;
+    color: #FFCE7F;
+}
+
+.shelf .items .item .info .rating-group {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: max-content;
+    gap: 10px;
+    height: 22px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.shelf .items .item .info .rating-group .rating {
+    display: inline-block;
+    color: #838383;
+}

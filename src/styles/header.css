@@ -1,0 +1,40 @@
+header {
+    position: relative;
+    grid-area: 1 / 2 / 1 / 2;
+    display: flex;
+    align-items: center;
+}
+
+header .chosen-items {
+    position: absolute;
+    right: 0;
+    width: 120px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.counter-box {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25px;
+    height: 25px;
+}
+
+.counter {
+    position: absolute;
+    top: -7px;
+    right: -7px;
+    height: 17px;
+    width: 17px;
+    background-color: #FFA542;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+}
