@@ -38,18 +38,18 @@ export function BagProvider( { children } :BagProviderProps ) {
         return BagItems.find(item => item.id === id)?.quantity || 0
     }
 
-    function increaseItemQuantity(id: number) {
+      function increaseItemQuantity(id: number) {
         setBagItems(currItems => {
           if (currItems.find(item => item.id === id) == null) {
             return [...currItems, { id, quantity: 1 }]
           } else {
             return currItems.map(item => {
               if (item.id === id) {
-                return { ...item, quantity: item.quantity + 1 }
+                return { ...item, quantity: item.quantity + 1 };
               } else {
-                return item
+                return item;
               }
-            })
+            });
           }
         })
       }

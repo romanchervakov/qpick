@@ -61,3 +61,12 @@ footer .language .current {
     font-weight: 700;
     color: #FFA542;;
 }
+
+footer .phone {
+    position: absolute;
+    right: 29px;
+    top: 68px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+}

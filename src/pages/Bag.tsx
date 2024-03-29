@@ -29,12 +29,11 @@ export function Bag () {
                             <div className="total-group">
                                 <span>ИТОГО:</span>
                                 <span>₽ 
-                                {
-                                    BagItems.reduce((total, BagItem) => {
+                                { BagItems.reduce((total, BagItem) => {
                                         const item = findObjectById(BagItem.id)
                                         return total + (item?.price || 0) * BagItem.quantity
                                     }, 0)
-                                    }
+                                }
                                 </span>
                             </div>
                             <button type="button" className="check-out-button">Перейти к оформлению</button>
