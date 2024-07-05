@@ -4,7 +4,7 @@
         "items": [
             {
                 "id": 0,
-                "image": "https://s3-alpha-sig.figma.com/img/087e/6171/64aabe57a3e7a6204314e43f1b2e93f0?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XJibWRBStfe838v00~~B~7SkJHZdIqorssdE75YXrRV5CPoNb1Nywbp73idx8Si~jGzwEpuXTXq5emH~FnmY~r8ref-DL-3B9tGf4clvBYZ2Zki8pquRYKLFHx~9Jx10jGP9BMlq4uDoqe4O52E8Hq-V1jvCTZ7X8Em3G9FPbvop6Zx891za9tBIwM3WYeUV6TYfycYOQGtIUzSOW3ejA5OKMYvguY1FE2ZhvRVrZ34ObJrIgOXgwwTQiM5nasBIwJYaIm51y8GupSj0vGoiKmwlKz-46alZ0VS2OwFZMuPfyqNi2K2VLEpFAJzrkbz2QqIge2~97LpcCqK3w0XkaA__",
+                "image": "src/data/images/1.png",
                 "name": "Apple BYZ S852I",
                 "rating": 4.7,
                 "price": 2927,
@@ -12,7 +12,7 @@
             },
             {
                 "id": 1,
-                "image": "https://s3-alpha-sig.figma.com/img/4c94/c058/dad214a07e3fe8bba69fdc64c01da9be?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=d-Zsh~468IwaVaYUYaq16DgyM-5SyziGsfSawGV7bTR3apjJf0ViwhLK39Js1lOxJtNO6vyZakY1~NdbYTvnnq6M10S1HSfxnRvPD3cfj63ykItE67YNsDNhxMQQxDMl~iq0ADXZlfJGKXr~WHA8~AF6DYfIm-hqci0TqQ6sDFxo0-PF5Arwk0Z~XILuAwhDcJXH27-QTRO5yLTgUjbQidYWOOSUsipz251e9YjNlta6Np2lzJ30JwTdvUoX8d35wkPELDmTK3B7gpRcMCZj3DMLlep5W23HYicnjF9VWx63yN904D6DMNry1vy~n48EFrnafiazpDn8NRTCvLnozg__",
+                "image": "src/data/images/2.png",
                 "name": "Apple EarPods",
                 "rating": 4.5,
                 "price": 2927,
@@ -20,7 +20,7 @@
             },
             {
                 "id": 2,
-                "image": "https://s3-alpha-sig.figma.com/img/9a61/d3e6/ebf088b546e3cb83d0fef126b458d80f?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pOblYSooPVhvUouEEu72SJWceoHl10mW2JKQyKn-DGjGw8OdxBRrj~jb9mkGrTnj7qWeF5Q3C2RDVXkG49Dm9LO-JQt6oLWc29-xahJvOOvg9yz55VbMOl7ZBHG1pTSDUcCNt0xMFi2CkhC38tBYQU8K2S8QrJJhDcXR4rEzZHhfRwIa7mUaHv5Ti7SA5Ga6zCMxitb1-5vIBlcOKb~09E55uY96nuKH6yAtiDIxPhUAoNEIZPd5VMtLb8R8MI3ftg8NxBBf0OxM4MtDlfdkeuEV6I~Uoa2cq3ATokRDNaN-U1xyZaiu1lMQ3YqOhiLv5kOAH04hxWnZ-VSHmqliyA__",
+                "image": "src/data/images/3.png",
                 "name": "Apple EarPods",
                 "rating": 4.5,
                 "price": 2927,
@@ -28,7 +28,7 @@
             },
             {
                 "id": 3,
-                "image": "https://s3-alpha-sig.figma.com/img/087e/6171/64aabe57a3e7a6204314e43f1b2e93f0?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=XJibWRBStfe838v00~~B~7SkJHZdIqorssdE75YXrRV5CPoNb1Nywbp73idx8Si~jGzwEpuXTXq5emH~FnmY~r8ref-DL-3B9tGf4clvBYZ2Zki8pquRYKLFHx~9Jx10jGP9BMlq4uDoqe4O52E8Hq-V1jvCTZ7X8Em3G9FPbvop6Zx891za9tBIwM3WYeUV6TYfycYOQGtIUzSOW3ejA5OKMYvguY1FE2ZhvRVrZ34ObJrIgOXgwwTQiM5nasBIwJYaIm51y8GupSj0vGoiKmwlKz-46alZ0VS2OwFZMuPfyqNi2K2VLEpFAJzrkbz2QqIge2~97LpcCqK3w0XkaA__",
+                "image": "src/data/images/1.png",
                 "name": "Apple BYZ S852I",
                 "rating": 4.7,
                 "price": 2927,
@@ -36,7 +36,7 @@
             },
             {
                 "id": 4,
-                "image": "https://s3-alpha-sig.figma.com/img/4c94/c058/dad214a07e3fe8bba69fdc64c01da9be?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=d-Zsh~468IwaVaYUYaq16DgyM-5SyziGsfSawGV7bTR3apjJf0ViwhLK39Js1lOxJtNO6vyZakY1~NdbYTvnnq6M10S1HSfxnRvPD3cfj63ykItE67YNsDNhxMQQxDMl~iq0ADXZlfJGKXr~WHA8~AF6DYfIm-hqci0TqQ6sDFxo0-PF5Arwk0Z~XILuAwhDcJXH27-QTRO5yLTgUjbQidYWOOSUsipz251e9YjNlta6Np2lzJ30JwTdvUoX8d35wkPELDmTK3B7gpRcMCZj3DMLlep5W23HYicnjF9VWx63yN904D6DMNry1vy~n48EFrnafiazpDn8NRTCvLnozg__",
+                "image": "src/data/images/2.png",
                 "name": "Apple EarPods",
                 "rating": 4.5,
                 "price": 2927,
@@ -44,7 +44,7 @@
             },
             {
                 "id": 5,
-                "image": "https://s3-alpha-sig.figma.com/img/9a61/d3e6/ebf088b546e3cb83d0fef126b458d80f?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=pOblYSooPVhvUouEEu72SJWceoHl10mW2JKQyKn-DGjGw8OdxBRrj~jb9mkGrTnj7qWeF5Q3C2RDVXkG49Dm9LO-JQt6oLWc29-xahJvOOvg9yz55VbMOl7ZBHG1pTSDUcCNt0xMFi2CkhC38tBYQU8K2S8QrJJhDcXR4rEzZHhfRwIa7mUaHv5Ti7SA5Ga6zCMxitb1-5vIBlcOKb~09E55uY96nuKH6yAtiDIxPhUAoNEIZPd5VMtLb8R8MI3ftg8NxBBf0OxM4MtDlfdkeuEV6I~Uoa2cq3ATokRDNaN-U1xyZaiu1lMQ3YqOhiLv5kOAH04hxWnZ-VSHmqliyA__",
+                "image": "src/data/images/3.png",
                 "name": "Apple EarPods",
                 "rating": 4.5,
                 "price": 2927,
@@ -57,7 +57,7 @@
         "items": [
             {
                 "id": 6,
-                "image": "https://s3-alpha-sig.figma.com/img/79e9/6576/3612c82723783fd36de4be8792b410c8?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=kbevXb8GaoaaEVrnpflou7VvOjQgFiFWbAE2GLhF3BEj8jHYvyH2WUbKXdhSLOu6QkSnQEyIp~6oMVtZIg9sPWCsrxDQ9UIDDk5ooWkGHbQz-EIL7OkUG-MPZZ5LRnoFgNRE4cY-YbfM3LbjX8ifeFaBMAHOODOPFIi73CAAW048ErmrdB-zUNw8HEE52WKbgV~yEWpyyooQs37kMVfWHlxWEGrCc5zIlKzShsLdw1~-8kVGjXTGZodM4MZhGGEcoVjMhZRLDtW0cY-0QzZtL7kPhiHt50Z2LtTil9IkBTLc1-TbToz4QN9qiNvKnWSyjsE3ewG2pmO-nzhh6tPFbQ__",
+                "image": "src/data/images/4.png",
                 "name": "Apple AirPods",
                 "rating": 4.7,
                 "price": 9527,
@@ -65,7 +65,7 @@
             },
             {
                 "id": 7,
-                "image": "https://s3-alpha-sig.figma.com/img/8856/1fad/de8774bba5aeb1888e3a4bb69a5d9d6b?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Rys8LPcS~niuN7a1ZB9W7ykp~UXWu7PPH6Cn~na5XQstlvdtTz1IL91Gfr0ZyaOGNomuLchmaXoalmjPXIYjSUXRpslBT2PlOmv02zXqqyJYqRcy9TC5r-t9~n~N~ewQaQtQo2L4aIs0-7BlaJNNXHXJiz03bt-L2jarNzlLc6kQhDLPJ3R4Ujwr5sTJ5WTF~NUM3GEA4N5QPBuvVTdNpvhdAPdcCtYFtanun1m3T9t~lnoQaTMS1lJ3K8pUneDWxeTQbuohyFcszvmBj8rJSkkP2oUyQ~~kKiza-3K1Nkqv66yzpG6I8d32kQ6CjFW03YExQn~NN19SyfMU8Xp2UA__",
+                "image": "src/data/images/5.png",
                 "name": "GERLAX GH-04",
                 "rating": 4.7,
                 "price": 6527,
@@ -73,7 +73,7 @@
             },
             {
                 "id": 8,
-                "image": "https://s3-alpha-sig.figma.com/img/6e2a/127e/65528ef2ba5eb346ae0e4abe50fa02ee?Expires=1712534400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qyG8B2LtgnAeWWid7pxZz2W6mqpQQrOyurhAW7t9L9DszuJz2hUqlQNzNnPSppUyKXqLVKhsD3nCurrbAFfzsXDPom~nvXP7np0vJSpGdGFsgr5hAHf3Oft4AzecPUg1QexmY3UcRPv9QeSor48hrTWhlVPPOTmDyDyq-e7yeGHb-~Z-r6rfn9Kr~dpmy1lRI7cg2WmSInCIYvxChUWN2q-aUc-5npYdvj2kf6k9oQBWB7CKW5fEVxMpQV6MYNf~LEsob24-A0qwVzbCTXWoOFasNMtSpWFhhOzmlU09dDx-hnfP4e0RSEaRaV1-h4-3GPy1S4eKUzLS0EVtENF3fw__",
+                "image": "src/data/images/6.png",
                 "name": "BOROFONE BO4",
                 "rating": 4.7,
                 "price": 7527,

@@ -81,3 +81,6 @@ export function BagProvider( { children } :BagProviderProps ) {
              {children}
            </BagContext.Provider>
 }
+
+
+
